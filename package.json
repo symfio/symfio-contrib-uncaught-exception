@@ -1,0 +1,28 @@
+{
+  "name": "symfio-contrib-uncaught-exception"
+, "version": "0.1.0"
+, "description": "Uncaught exception plugin."
+, "keywords": ["symfio-plugin", "symfio-contrib-uncaught-exception"]
+, "homepage": "http://symf.io/plugins/symfio-contrib-uncaught-exception"
+, "author": {
+    "name": "Andrey Linko"
+  , "email": "su2ny@mail.ru"
+  }
+, "main": "lib/uncaught-exception"
+, "scripts": {
+    "test": "grunt simplemocha"
+  }
+, "devDependencies": {
+    "symfio": "~1.0"
+  , "symfio-suite": "~1.0"
+  , "symfio-contrib-nodemailer": "~0.1"
+  , "grunt": "~0.4"
+  , "grunt-simple-mocha": "~0.3"
+  , "grunt-coffeelint": "~0.0"
+  }
+, "engines": {
+    "node": "~0.8"
+  , "npm": "~1.2"
+  , "coffee-script": "~1.6"
+  }
+}
