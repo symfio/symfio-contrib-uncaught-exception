@@ -17,7 +17,7 @@
   , "symfio-suite": "~1.0"
   , "symfio-contrib-nodemailer": "~0.1"
   , "grunt": "~0.4"
-  , "grunt-simple-mocha": "~0.3"
+  , "grunt-simple-mocha": "~0.4"
   , "grunt-coffeelint": "~0.0"
   }
 , "engines": {
