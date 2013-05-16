@@ -1,6 +1,6 @@
 {
   "name": "symfio-contrib-uncaught-exception"
-, "version": "0.1.0"
+, "version": "0.1.1"
 , "description": "Uncaught exception plugin."
 , "keywords": ["symfio-plugin", "symfio-contrib-uncaught-exception"]
 , "homepage": "http://symf.io/plugins/symfio-contrib-uncaught-exception"
